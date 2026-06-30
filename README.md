@@ -89,14 +89,3 @@ This project demonstrates practical skills in:
 
 **Vanshika Tanwar**
 
-- Dashboard Development
-- Data Visualization
-- Business Insight Generation
-
----
-
-##  Author
-
-**Vanshika Tanwar**
-
-Aspiring Data Analyst | SQL | Power BI | Excel
