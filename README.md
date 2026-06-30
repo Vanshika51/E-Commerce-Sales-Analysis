@@ -14,7 +14,7 @@ This project analyzes the Sample Superstore dataset using MySQL and Power BI to 
 
 ##  Dataset
 
-- Dataset: Sample Superstore
+- Dataset: Superstore
 - Total Records: 9,994
 - Total Columns: 21
 
