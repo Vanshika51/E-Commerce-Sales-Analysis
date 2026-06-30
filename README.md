@@ -1,5 +1,9 @@
 #  E-Commerce Sales Analysis | MySQL + Power BI
 
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
 ##  Project Overview
 
 This project analyzes the Sample Superstore dataset using MySQL and Power BI to uncover business insights related to sales, profit, customers, products, and regional performance. SQL was used for data analysis, while Power BI was used to build an interactive dashboard for effective business reporting.
